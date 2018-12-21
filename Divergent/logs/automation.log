@@ -1,0 +1,432 @@
+12/21/2018 11:36:28 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:36:28 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:36:28 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:36:28 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:36:31 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:36:31 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:47:43 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:47:43 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:47:43 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:47:43 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:47:46 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:47:46 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:47:49 AM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 11:47:49 AM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 11:47:49 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+12/21/2018 11:47:49 AM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Login Verification_1545373069478.png
+12/21/2018 11:47:49 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+12/21/2018 11:49:37 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:49:37 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:49:37 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:49:37 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:49:40 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:49:40 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:49:43 AM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 11:49:43 AM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 11:51:21 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:51:22 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:51:22 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:51:22 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:51:25 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:51:25 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:51:28 AM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 11:51:28 AM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 11:54:23 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:54:23 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:56:00 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:56:00 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:56:00 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:56:00 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:56:03 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:56:03 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:56:06 AM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 11:56:06 AM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 11:56:06 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+12/21/2018 11:56:06 AM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Login Verification_1545373566521.png
+12/21/2018 11:56:06 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+12/21/2018 11:59:11 AM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 11:59:12 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 11:59:12 AM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 11:59:12 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 11:59:15 AM - LoginPage - INFO: Element not found with locator: submit and  locatorType: id
+12/21/2018 11:59:15 AM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+12/21/2018 11:59:18 AM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 11:59:18 AM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 11:59:18 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+12/21/2018 11:59:18 AM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Login Verification_1545373758186.png
+12/21/2018 11:59:18 AM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+12/21/2018 12:01:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:01:52 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 12:01:52 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:01:52 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 12:01:52 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:01:54 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:01:54 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:01:54 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:01:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:01:54 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 12:15:46 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:15:46 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 12:15:46 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:15:46 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 12:15:46 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:15:48 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:15:48 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:15:48 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:15:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:15:48 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 12:38:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:38:15 PM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: id
+12/21/2018 12:38:15 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:38:15 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 12:38:15 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:38:18 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:38:18 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:38:18 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:38:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:38:18 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 12:44:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:44:06 PM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: id
+12/21/2018 12:44:06 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:44:06 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 12:44:06 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:44:08 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:44:08 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:44:08 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:44:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:44:08 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 12:57:36 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:57:36 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 12:57:36 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:57:36 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 12:57:36 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:57:38 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:57:38 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:57:38 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:57:38 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:57:38 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 12:58:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 12:58:24 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 12:58:24 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 12:58:24 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 12:58:24 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 12:58:27 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 12:58:27 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 12:58:27 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 12:58:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 12:58:27 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 01:00:54 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 01:00:54 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 01:00:54 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 01:00:54 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 01:00:54 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 01:00:56 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 01:00:57 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 01:00:57 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 01:00:57 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 01:00:57 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 01:02:17 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 01:02:17 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 01:02:17 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 01:02:17 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 01:02:17 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 01:02:19 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 01:02:19 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 01:02:19 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 01:02:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 01:02:19 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 01:02:43 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 01:02:43 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 01:02:43 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 01:02:43 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 01:02:43 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 01:02:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 01:02:45 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 01:02:45 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 01:02:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 01:02:45 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 01:27:13 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 01:27:13 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 01:27:13 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 01:27:13 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 01:27:13 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 01:27:16 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 01:27:16 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 01:27:16 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 01:27:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 01:27:16 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 01:28:03 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 01:28:03 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 01:28:03 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 01:28:03 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 01:28:03 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 01:28:06 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 01:28:06 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 01:28:06 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 01:28:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 01:28:06 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 02:35:20 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 02:35:20 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 02:35:20 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 02:35:20 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 02:35:20 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 02:35:21 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 02:35:24 PM - LoginPage - INFO: Element not found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 02:35:24 PM - LoginPage - INFO: Element not present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 02:35:24 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Verification
+12/21/2018 02:35:24 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Login Verification_1545383124391.png
+12/21/2018 02:35:24 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+12/21/2018 03:25:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:25:57 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:25:57 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:25:57 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:25:57 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:26:00 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:26:00 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 03:26:00 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 03:26:00 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 03:26:00 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 03:26:03 PM - LoginPage - INFO: Element not found with locator: email and  locatorType: id
+12/21/2018 03:26:03 PM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: id
+12/21/2018 03:26:06 PM - LoginPage - INFO: Element not found with locator: password and  locatorType: id
+12/21/2018 03:26:06 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 03:26:41 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:26:41 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:26:41 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:26:41 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:26:41 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:26:43 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:26:43 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 03:26:43 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 03:26:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+12/21/2018 03:26:43 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 03:40:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:40:34 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:40:34 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:40:34 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:40:34 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:40:35 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:40:38 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 03:40:38 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 03:42:45 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:42:45 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:42:45 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:42:45 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:42:45 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:42:46 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:42:49 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 03:42:49 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 03:42:49 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Login Verification
+12/21/2018 03:42:49 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Invalid Login Verification_1545387169580.png
+12/21/2018 03:42:49 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+12/21/2018 03:42:49 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:42:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:42:50 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:42:50 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:42:50 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:42:52 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:42:52 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 03:42:52 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 03:42:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 03:42:52 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 03:45:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:45:44 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:45:44 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:45:44 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:45:44 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:45:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:45:48 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 03:45:48 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 03:45:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:45:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:45:48 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:45:48 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:45:48 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:45:50 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:45:50 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 03:45:50 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 03:45:50 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 03:45:50 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 03:47:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:47:08 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:47:08 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:47:08 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:47:08 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:47:09 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:47:12 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 03:47:12 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 03:47:12 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Login Verification
+12/21/2018 03:47:12 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Invalid Login Verification_1545387432567.png
+12/21/2018 03:47:12 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+12/21/2018 03:47:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 03:47:45 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 03:47:45 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 03:47:45 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 03:47:45 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 03:47:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 03:47:48 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 03:47:48 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 04:44:29 PM - RegisterPage - INFO: Element not found with locator: Register and  locatorType: id
+12/21/2018 04:44:29 PM - RegisterPage - INFO: Cannot click on the element with locator: Register locatorType: id
+12/21/2018 04:47:15 PM - RegisterPage - INFO: Element not found with locator: Register and  locatorType: id
+12/21/2018 04:47:15 PM - RegisterPage - INFO: Cannot click on the element with locator: Register locatorType: id
+12/21/2018 04:47:18 PM - RegisterPage - INFO: Element not found with locator: //*[@class='content']/h1 and  locatorType: xpath
+12/21/2018 04:47:18 PM - RegisterPage - INFO: Element not present with locator: //*[@class='content']/h1 locatorType: xpath
+12/21/2018 04:47:18 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + register page loading Verification
+12/21/2018 04:47:19 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/register page loading Verification_1545391038859.png
+12/21/2018 04:47:19 PM - TestStatus - ERROR: test_registerpage ### TEST FAILED
+12/21/2018 04:49:27 PM - RegisterPage - INFO: Element not found with locator: Register and  locatorType: id
+12/21/2018 04:49:27 PM - RegisterPage - INFO: Cannot click on the element with locator: Register locatorType: id
+12/21/2018 04:49:30 PM - RegisterPage - INFO: Element not found with locator: //*[@class='content']/h1 and  locatorType: xpath
+12/21/2018 04:49:30 PM - RegisterPage - INFO: Element not present with locator: //*[@class='content']/h1 locatorType: xpath
+12/21/2018 04:49:30 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + register page loading Verification
+12/21/2018 04:49:30 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/register page loading Verification_1545391170553.png
+12/21/2018 04:49:30 PM - TestStatus - ERROR: test_registerpage ### TEST FAILED
+12/21/2018 04:50:30 PM - RegisterPage - INFO: Element found with locator: Register and  locatorType: id
+12/21/2018 04:50:30 PM - RegisterPage - INFO: Cannot click on the element with locator: Register locatorType: id
+12/21/2018 04:51:45 PM - RegisterPage - INFO: Element not found with locator: Register and  locatorType: id
+12/21/2018 04:51:45 PM - RegisterPage - INFO: Cannot click on the element with locator: Register locatorType: id
+12/21/2018 04:51:48 PM - RegisterPage - INFO: Element not found with locator: //*[@class='content']/h1 and  locatorType: xpath
+12/21/2018 04:51:48 PM - RegisterPage - INFO: Element not present with locator: //*[@class='content']/h1 locatorType: xpath
+12/21/2018 04:51:48 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + register page loading Verification
+12/21/2018 04:51:49 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/register page loading Verification_1545391308929.png
+12/21/2018 04:51:49 PM - TestStatus - ERROR: test_registerpage ### TEST FAILED
+12/21/2018 05:18:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:18:09 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:18:09 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:18:09 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:18:09 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:18:10 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:18:13 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 05:18:13 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 05:18:13 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:18:13 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:18:13 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:18:13 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:18:13 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:18:16 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:18:16 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 05:18:16 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 05:18:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 05:18:16 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 05:20:25 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:20:25 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:20:25 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:20:25 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:20:25 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:20:26 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:20:29 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 05:20:29 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 05:20:29 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Login Verification
+12/21/2018 05:20:30 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Invalid Login Verification_1545393029780.png
+12/21/2018 05:20:30 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+12/21/2018 05:20:58 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:20:58 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:20:58 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:20:59 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:20:59 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:20:59 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:21:03 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 05:21:03 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 05:21:49 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:21:49 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:21:49 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:21:49 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:21:49 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:21:50 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:21:53 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 05:21:53 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 05:21:53 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Login Verification
+12/21/2018 05:21:54 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Invalid Login Verification_1545393113788.png
+12/21/2018 05:21:54 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+12/21/2018 05:23:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:23:06 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:23:06 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:23:06 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:23:06 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:23:07 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:23:11 PM - LoginPage - INFO: Element not found with locator: //form[@class='button_to']/input[@class='btn btn-danger'] and  locatorType: xpath
+12/21/2018 05:23:11 PM - LoginPage - INFO: Element not present with locator: //form[@class='button_to']/input[@class='btn btn-danger'] locatorType: xpath
+12/21/2018 05:23:11 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Login Verification
+12/21/2018 05:23:11 PM - TestStatus - INFO: Screenshot save to directory: E:\PIP\Divergent\driverSetup\../screenshots/runtime_screenshots/Invalid Login Verification_1545393191018.png
+12/21/2018 05:23:11 PM - TestStatus - ERROR: test_invalidLogin ### TEST FAILED
+12/21/2018 05:33:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:33:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:33:48 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:33:48 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 05:33:48 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:33:49 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:33:49 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[2]/span/b and  locatorType: xpath
+12/21/2018 05:33:49 PM - LoginPage - INFO: Element present with locator: //form[@id='login-form']/div[2]/span/b locatorType: xpath
+12/21/2018 05:33:49 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InValid Login Verification
+12/21/2018 05:33:49 PM - TestStatus - INFO: test_invalidLogin ### TEST SUCCESSFUL
+12/21/2018 05:33:49 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:33:49 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:33:49 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:33:49 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:33:49 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:33:51 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:33:51 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 05:33:51 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 05:33:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 05:33:51 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 05:34:49 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:34:49 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:34:49 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:34:49 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 05:34:49 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:34:50 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:34:50 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[2]/span/b and  locatorType: xpath
+12/21/2018 05:34:50 PM - LoginPage - INFO: Element present with locator: //form[@id='login-form']/div[2]/span/b locatorType: xpath
+12/21/2018 05:34:50 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InValid Login Verification
+12/21/2018 05:34:50 PM - TestStatus - INFO: test_invalidLogin ### TEST SUCCESSFUL
+12/21/2018 05:34:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:34:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:34:50 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:34:50 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:34:50 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:34:51 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:34:51 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[2]/span/b and  locatorType: xpath
+12/21/2018 05:34:51 PM - LoginPage - INFO: Element present with locator: //form[@id='login-form']/div[2]/span/b locatorType: xpath
+12/21/2018 05:34:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InValid Login Verification
+12/21/2018 05:34:51 PM - TestStatus - INFO: test_invalidLogin ### TEST SUCCESSFUL
+12/21/2018 05:34:51 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 05:34:51 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 05:34:51 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 05:34:51 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 05:34:51 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 05:34:53 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 05:34:53 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 05:34:53 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 05:34:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 05:34:53 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+12/21/2018 06:02:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 06:02:07 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 06:02:07 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 06:02:07 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/21/2018 06:02:07 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 06:02:08 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 06:02:08 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[2]/span/b and  locatorType: xpath
+12/21/2018 06:02:08 PM - LoginPage - INFO: Element present with locator: //form[@id='login-form']/div[2]/span/b locatorType: xpath
+12/21/2018 06:02:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InValid Login Verification
+12/21/2018 06:02:08 PM - TestStatus - INFO: test_invalidLogin ### TEST SUCCESSFUL
+12/21/2018 06:02:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 06:02:08 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 06:02:08 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 06:02:08 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 06:02:08 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 06:02:09 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 06:02:09 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[2]/span/b and  locatorType: xpath
+12/21/2018 06:02:09 PM - LoginPage - INFO: Element present with locator: //form[@id='login-form']/div[2]/span/b locatorType: xpath
+12/21/2018 06:02:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + InValid Login Verification
+12/21/2018 06:02:09 PM - TestStatus - INFO: test_invalidLogin ### TEST SUCCESSFUL
+12/21/2018 06:02:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+12/21/2018 06:02:09 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/21/2018 06:02:09 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+12/21/2018 06:02:09 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/21/2018 06:02:09 PM - LoginPage - INFO: Element found with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] and  locatorType: xpath
+12/21/2018 06:02:11 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='login-form']/div[3]/input[@class='btn btn-default'] locatorType: xpath
+12/21/2018 06:02:11 PM - LoginPage - INFO: Element found with locator: //*[@class='content']/h4 and  locatorType: xpath
+12/21/2018 06:02:11 PM - LoginPage - INFO: Element present with locator: //*[@class='content']/h4 locatorType: xpath
+12/21/2018 06:02:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Valid Login Verification
+12/21/2018 06:02:11 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
